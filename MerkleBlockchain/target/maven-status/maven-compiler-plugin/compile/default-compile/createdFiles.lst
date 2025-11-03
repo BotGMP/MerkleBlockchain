@@ -1,0 +1,7 @@
+utils\DigestUtils.class
+ubi\MerkleTree$MerkleProofStep.class
+ubi\MerkleNode.class
+ubi\Test.class
+utils\Utils.class
+ubi\MerkleTree$Direction.class
+ubi\MerkleTree.class
